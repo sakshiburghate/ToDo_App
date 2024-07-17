@@ -13,7 +13,7 @@ Tailwind CSS for styling
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/sakshiburghate/ToDo_App.git
 
 composer install
 npm install
