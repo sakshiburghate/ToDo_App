@@ -28,11 +28,11 @@ Mail settings for
 MAIL_MAILER=smtp
 MAIL_HOST=smtp.gmail.com
 MAIL_PORT=587
-MAIL_USERNAME=sakshiburghate17@gmail.com
-MAIL_PASSWORD=acsqvajnsadmydir
+MAIL_USERNAME=your@gmail.com
+MAIL_PASSWORD=yourpass
 
 MAIL_ENCRYPTION=tls
-MAIL_FROM_ADDRESS=sakshiburghate17@gmail.com
+MAIL_FROM_ADDRESS=your@gmail.com
 MAIL_FROM_NAME="${APP_NAME}"
 
 database
